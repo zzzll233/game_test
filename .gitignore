@@ -1,0 +1,7 @@
+# Excel 临时锁定文件
+~$*.xlsx
+~$*.xls
+
+# 系统缓存文件
+.DS_Store
+Thumbs.db
